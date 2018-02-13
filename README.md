@@ -1,6 +1,7 @@
 # Intro to JavaScript
+This is an intro to javascript course for middle and high school students. Adapted from 4 two-hour course by [Girl Develop It](https://www.girldevelopit.com/).
 
-Slides and materials are hosted at [http://girldevelopit.github.io/gdi-featured-js-intro/](http://girldevelopit.github.io/gdi-featured-js-intro).
+Slides and materials are hosted at [http://dwcaraway.github.io/gdi-featured-js-intro/](http://dwcaraway.github.io/gdi-featured-js-intro/).
 
 This is the Girl Develop It Intro JavaScript course. Material based on original material by Sara Chipps, Pamela Fox, Alexis Goldstein, Izzy Johnston, Leo Newball, and Sylvia Pellicore.
 
